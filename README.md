@@ -97,7 +97,3 @@ The chatbot retrieves relevant knowledge from internal documentation and generat
 4. Ziad Mohammed
 5. Rana Alaa
 6. Farah Mostafa
-
----
-
-## 🔗 Repository Structure
