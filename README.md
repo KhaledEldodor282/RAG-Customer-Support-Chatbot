@@ -26,23 +26,29 @@ The chatbot retrieves relevant knowledge from internal documentation and generat
    - Normalization
    - Embedding Generation
 
-3. **RAG Pipeline**
+4. **RAG Pipeline**
    - Vector Store (Embeddings + Vector Database)
    - Retriever
    - Generator (LLM)
    - Response Post-Processing
 
-4. **Deployment**
+5. **Deployment**
    - Azure Machine Learning / Azure App Service
    - REST API Integration
    - Secure Access (Azure AD / API Keys)
 
-5. **MLOps**
+6. **MLOps**
    - MLflow Experiment Tracking
    - Performance Monitoring
    - Automated Retraining Pipeline
 
 ---
+## 📂 Dataset
+
+The dataset used in this project can be found here:
+- Dataset: [Customer Support Twitter Dataset](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter)
+---
+
 ## 🛠️ Tech Stack
 - Python
 - Hugging Face Transformers
