@@ -1,0 +1,40 @@
+# --- Big / generated ---
+rag_index/
+**/rag_index/
+venv/
+**/venv/
+env/
+**/env/
+node_modules/
+**/node_modules/
+
+# --- Python ---
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- Node / Vite ---
+dist/
+**/dist/
+.vite/
+*.log
+npm-debug.log*
+
+# --- Env / secrets ---
+.env
+.env.local
+.env.*.local
+*.pem
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Model cache (if any accidentally in project) ---
+.cache/
+huggingface/
